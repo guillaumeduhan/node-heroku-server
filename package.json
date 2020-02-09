@@ -1,7 +1,9 @@
 {
   "name": "node-heroku-server",
   "description": "A node.js boilerplate made for Heroku.",
+  "author": "Guillaume Duhan",
   "version": "0.0.0",
+  "main": "server.js",
   "dependencies": {
     "": ""
   }
