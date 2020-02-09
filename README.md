@@ -10,7 +10,7 @@
 Clone project and enter in folder:
 
 ```
-cd vue-firebase-boilerplate
+cd node-heroku-server
 ```
 
 Run npm install:
